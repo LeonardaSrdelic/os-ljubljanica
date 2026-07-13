@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Osnovna škola Ljubljanica">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- amber arc (sun / rainbow) -->
+    <path d="M14 52 A34 34 0 0 1 64 14" stroke="#F2B54A" stroke-width="4.5"/>
+    <!-- flag -->
+    <path d="M46 30 V13" stroke="#4C8C5A" stroke-width="3.4"/>
+    <path d="M46 14 L58 17.5 L46 21.5 Z" fill="#F2B54A" stroke="#F2B54A" stroke-width="2"/>
+    <!-- tower with battlements -->
+    <path d="M37 66 V34 h4 v-4 h4 v4 h4 v-4 h4 v4 h4 V66"
+          stroke="#4C8C5A" stroke-width="4"/>
+    <!-- tower window -->
+    <rect x="43.5" y="44" width="9" height="12" rx="4.5" stroke="#4C8C5A" stroke-width="3.2"/>
+    <!-- tree -->
+    <path d="M70 66 V52" stroke="#4C8C5A" stroke-width="3.4"/>
+    <path d="M70 52 C60 51 58 40 66 36 C64 29 74 26 78 32 C86 31 87 42 79 44 C82 50 74 53 70 52 Z"
+          stroke="#4C8C5A" stroke-width="3.4"/>
+    <!-- hill -->
+    <path d="M12 66 Q34 58 50 66 Q66 74 88 62" stroke="#4C8C5A" stroke-width="4"/>
+    <!-- water -->
+    <path d="M18 78 Q26 73 34 78 T50 78" stroke="#8DB7E3" stroke-width="4"/>
+    <path d="M30 88 Q40 83 50 88 T70 88" stroke="#8DB7E3" stroke-width="4"/>
+  </g>
+</svg>
